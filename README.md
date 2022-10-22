@@ -1,0 +1,1 @@
+# ASP.NET 6 MVC Web App with CRUD on multiple tables, also following Clean architecture.
